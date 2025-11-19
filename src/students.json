@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "dimas",
+      "class": "11",
+      "grades": {
+        "mtk": 100
+      }
+    },
+    {
+      "id": "2",
+      "name": "iko",
+      "class": "11",
+      "grades": {
+        "mtk": 20
+      }
+    }
+  ]
+}
